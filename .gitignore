@@ -1,3 +1,5 @@
+git add .gitignore
+git commit -m "ignore .env files"
 # Compiled source #
 ###################
 *.com
